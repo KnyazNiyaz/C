@@ -1,5 +1,9 @@
 /*** includes ***/
 
+
+//  Raw mode is achieved by turning off a great many flags in the terminal, which we will do gradually over the course of this chapter.
+
+
 // если в вводимый поток попадеться character - Ctrl-S or Ctrl-
 // Ctrl-Q восстанавливает поток 
 
